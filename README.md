@@ -21,8 +21,8 @@ BMI Calculator was my first Android project and my first step into Android devel
 - String resource para concatenacao de texto
 
 ## TODO
-- Improve app interface-layout
-
+- Improve the app layout/interface
+  
 ## License
 ```
 The MIT License (MIT)
