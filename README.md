@@ -3,7 +3,7 @@
 BMI Calculator was my first Android project and my first step into Android development. I took part in the DevSpace community's 10D Challenge and was able to create this project from scratch.
 
 ## :camera_flash: Screenshots
-<img src="/result/BMI1.png" width="260">&emsp;<img src="/result/BMI2.png" width="260">&emsp;<img src="/result/BMI3.png" width="260">
+<img src="/BMI1.png" width="260">&emsp;<img src="/BMI2.png" width="260">&emsp;<img src="/BMI3.png" width="260">
 
 ## Tecnologias
 * Kotlin
