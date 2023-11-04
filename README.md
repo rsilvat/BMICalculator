@@ -1,6 +1,6 @@
 # BMI Calculator
 
-BMI Calculator was my first Android project and my first step into Android development. I took part in the DevSpace community's 10D Challenge and was able to create this project from scratch.
+BMI Calculator was my first Android project and my first step into Android development. This app is the result of a project developed from scratch as part of the 10D Challenge in the DevSpace community.
 
 ## :camera_flash: Screenshots
 <img src="/BMI1.png" width="260">&emsp;<img src="/BMI2.png" width="260">&emsp;<img src="/BMI3.png" width="260">
